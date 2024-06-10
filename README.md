@@ -7,6 +7,11 @@
 
 This repository contains the implementation of a neural network built from scratch using only NumPy. The project demonstrates fundamental concepts of neural networks and is a valuable learning resource for those interested in understanding how neural networks work at a basic level.
 
+# Model Fitting time
+```
+CPU Model fit time 25 sec
+GPU Model fit time 12 sec
+```
 ## 🎯 Features
   - Fully connected layers
   - Activation functions: ReLU, Sigmoid, Tanh
