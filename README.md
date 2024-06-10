@@ -6,8 +6,10 @@
 
 This repository contains the implementation of a neural network built from scratch using only NumPy. The project demonstrates fundamental concepts of neural networks and is a valuable learning resource for those interested in understanding how neural networks work at a basic level.
 
-# Model Fitting time for 2000 epochs
 
+
+# Model Fitting time for 2000 epochs
+` Accuracy 85 % `
 ```
 CPU Model fit time 2 min 16 sec
 GPU Model fit time 50 sec
