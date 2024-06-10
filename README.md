@@ -105,23 +105,15 @@ $$
 
 $$
 considering \ S \ (summation)  = x_1 * w_1 + x_2 * w_2
-
 \\
             \ A \ (activation) = sigmoid = \frac{e^x}{(1+ e^x)}
-
 $$
-
 $$
-
 Using Chain Rule \\
-
 \frac{dE}{dW_1} = \frac{dE}{dA} \times \frac{dA}{dS} \times \frac{dS}{dW_1}
-
-
 $$
 $$
 \frac{dE}{dW_2} = \frac{dE}{dA} \times \frac{dA}{dS} \times \frac{dS}{dW_2}
-
 $$
 ![Alt text](images/7.png)
 
@@ -129,7 +121,6 @@ $$
 
 $$
 W_1new = w_1old - \eta \frac{dE}{dW_1}
-
 \\
 W_2new = w_2old - \eta \frac{dE}{dW_2}
 $$
