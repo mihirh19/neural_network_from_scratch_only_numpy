@@ -106,7 +106,7 @@ $$
 $$
 considering \ S \ (summation)  = x_1 * w_1 + x_2 * w_2
 \\
-            \ A \ (activation) = sigmoid = \frac{e^x}{(1+ e^x)}
+\ A \ (activation) = sigmoid = \frac{e^x}{(1+ e^x)}
 $$
 $$
 Using Chain Rule \\
